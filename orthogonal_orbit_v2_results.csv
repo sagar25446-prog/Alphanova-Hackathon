@@ -1,0 +1,2 @@
+file_name,sharpe,n_observations,timestamp,ic,ic_std,ic_dispersion_corr,concentration,compression_loss,city_novelty_deg,nearest_city
+alphanova_orthogonal_orbit_v2.py,0.014022,24800,2026-08-27T10:42:34.775512,0.012627,0.224533,0.015539,0.114966,-0.097207,63.6,signal_37ad241681242b3a

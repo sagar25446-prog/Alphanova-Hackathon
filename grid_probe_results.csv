@@ -1,0 +1,2 @@
+file_name,sharpe,n_observations,timestamp,ic,ic_std,ic_dispersion_corr,concentration,compression_loss,city_novelty_deg,nearest_city
+grid_probe.py,-0.019010,24800,2026-08-27T15:03:44.163232,-0.017752,0.197589,0.010237,0.295595,0.042303,27.4,signal_23173b6e8df57761

@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Heavy datasets and binary data archives
+data/
+*.zip
+*.tar.gz
+*.7z
+*.parquet
+!signal_db/*.parquet
+!current_city_map_20260827/*.parquet
+
+# Vendor & 3rd party binaries
+.vendor/
+.thirdparty/
+.mpl-config/
+
+# Virtual Environments & IDE
+.venv/
+venv/
+ENV/
+env/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Runtime logs
+*.log

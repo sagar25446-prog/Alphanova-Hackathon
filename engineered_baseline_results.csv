@@ -1,0 +1,2 @@
+file_name,sharpe,n_observations,timestamp,ic,ic_std,ic_dispersion_corr,concentration,compression_loss,city_novelty_deg,nearest_city
+demo_engineered.py,-0.015362,24800,2026-08-27T11:08:24.604008,0.000849,0.230212,0.022282,0.077298,-0.010140,45.8,signal_c4639b8d841d3a13

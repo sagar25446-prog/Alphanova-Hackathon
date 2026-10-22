@@ -1,0 +1,2 @@
+file_name,sharpe,n_observations,timestamp,ic,ic_std,ic_dispersion_corr,concentration,compression_loss,city_novelty_deg,nearest_city
+alphanova_causal_prism.py,0.022317,24800,2026-08-27T01:18:18.085726,0.027160,0.244985,0.013761,0.106925,-0.226850,36.6,signal_a7ab2b1fffdb3a36

@@ -1,0 +1,2 @@
+file_name,sharpe,n_observations,timestamp,ic,ic_std,ic_dispersion_corr,concentration,compression_loss,city_novelty_deg,nearest_city
+alphanova_prism_five_tilt.py,0.023431,24800,2026-08-27T14:35:00.337936,0.029564,0.249680,0.010221,0.108577,-0.242723,34.6,signal_a7ab2b1fffdb3a36
